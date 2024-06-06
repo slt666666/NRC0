@@ -1,5 +1,7 @@
 # NRC0
-Source code for NRC0 paper (Sakai et al., 202X)
+Source code for NRC0 paper (Sakai et al., 2024)
+
+https://doi.org/10.1093/plcell/koae154
 
 * alignment_for_phylogeny.sh ... bash script for phylogenetic analysis
 * patristic_distance_analysis.py ... python script for patristic distance analysis
